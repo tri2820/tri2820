@@ -1,1 +1,1 @@
-Master's student in Machine Intelligence at the University of Basel
+Master's student in Computer Science (Machine Intelligence) at the University of Basel.
