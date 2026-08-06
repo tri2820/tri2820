@@ -1,6 +1,6 @@
 ## About Me
 
-Co-Founder of Zapdos Labs. Autonomous Computer Vision stack for factories & warehouses.
+Co-Founder of Zapdos Labs. Autonomous Computer Vision safety stack for factories & warehouses.
 
 Master's student in Computer Science (Machine Intelligence) at the University of Basel.
 
